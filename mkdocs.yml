@@ -1,6 +1,6 @@
 # Project information
 site_name: C.R Docs
-site_url: http://clubrescue.github.io/crdocs-nl
+site_url: http://clubrescue.github.io/crdocs-en
 site_author: Ruud Borghouts
 site_description: >-
   Create a branded static site from a set of Markdown files to host the
@@ -8,8 +8,8 @@ site_description: >-
   searchable, mobile-friendly, 40+ languages
 
 # Repository
-repo_name: clubrescue/crdocs-nl
-repo_url: https://github.com/clubrescue/crdocs-nl
+repo_name: clubrescue/crdocs-en
+repo_url: https://github.com/clubrescue/crdocs-en
 edit_uri: edit/dev/docs/
 
 # Copyright
@@ -29,7 +29,7 @@ theme:
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
-  language: nl
+  language: en
   features:
     - tabs
     #- instant
